@@ -1,3 +1,3 @@
 # study
 hello world!
-happy thursday
+happy thursday everyone
